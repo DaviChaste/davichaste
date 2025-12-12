@@ -32,6 +32,8 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 <h3>JavaScript</h3>
+<h3>Node.js</h3>
+<h3>Dom</h3>
 <h3>Python</h3>
 
 ###
